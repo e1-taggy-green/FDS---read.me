@@ -10,6 +10,19 @@
 
 > Print do Trello.
 
+### Video demonstração
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=V2ZiW2E1Rf8">
+    <img src="https://drive.google.com/uc?export=view&id=1A6-Tkss25Wc3-HY9vad5VMjDqoFq-GHs" alt="Assista ao vídeo do Taggy" style="width:100%;">
+    <br>
+    <sub>Clique na imagem acima para assistir à demonstração no YouTube</sub>
+  </a>
+</div>
+
+
+##
+
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
